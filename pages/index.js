@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.grid}>
           <h3>Matriz 1</h3>
           <p> 
-          <iframe src="https://onedrive.live.com/embed?cid=91F69582752FB659&resid=91F69582752FB659%21119&authkey=AFyo8TsAa5B5_Vo" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+          <img src="https://scontent.ftgu1-2.fna.fbcdn.net/v/t1.6435-9/170866593_5325986557475136_8186343361143095438_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=nxiB0f-MaYcAX96204D&_nc_ht=scontent.ftgu1-2.fna&oh=06787069a6b5c2d85923db17eb42c5f6&oe=60965206" alt="M1" width={500} height={500} />
           </p>
           <h3>Matriz 2</h3>
           <p> 
