@@ -15,22 +15,59 @@ export default function Home() {
           <a href="https://codigoshamming.vercel.app/">Matrices H</a>
         </h1>
 
-        <div className={styles.grid}>
+        <div className={styles.container}>
           <h3>Matriz 1</h3>
           <p> 
-          <img src="https://scontent.ftgu1-2.fna.fbcdn.net/v/t1.6435-9/170866593_5325986557475136_8186343361143095438_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=nxiB0f-MaYcAX96204D&_nc_ht=scontent.ftgu1-2.fna&oh=06787069a6b5c2d85923db17eb42c5f6&oe=60965206" alt="M1" width={500} height={500} />
+&#8726;begin&#x2774;center&#x2775;
+<br />$
+<br />H=
+<br />&#8726;left(&#8726;begin&#x2774;array&#x2775;&#x2774;ccc&#x2775;
+  <br />    0 & 1 & 1 \\
+  <br />   1 & 0 & 1 
+  <br />&#8726;end&#x2774;array&#x2775; &#8726;right)
+  <br />$
+  <br />&#8726;end&#x2774;center&#x2775;
+
           </p>
           <h3>Matriz 2</h3>
           <p> 
-            
+\begin&#x2774;center&#x2775;
+<br />$
+<br />H=
+<br />\left(\begin&#x2774;array&#x2775;&#x2774;ccccccc&#x2775;
+  <br />   0 & 0 & 0 & 1 & 1 & 1 & 1 \\
+  <br />   0 & 1 & 1 & 0 & 0 & 1 & 1 \\
+  <br />   1 & 0 & 1 & 0 & 1 & 0 & 1 
+  <br />\end&#x2774;array&#x2775; \right)
+  <br />$
+  <br />\end&#x2774;center&#x2775;
           </p>
           <h3>Matriz 3</h3>
           <p> 
-            
+\begin&#x2774;center&#x2775;
+<br />$
+<br />H=
+<br />\left(\begin&#x2774;array&#x2775;&#x2774;ccccccc&#x2775;
+  <br />    0 & 1 & 1 & 1 & 1 & 0 & 0 \\
+  <br />    1 & 0 & 1 & 1 & 0 & 1 & 0 \\
+  <br />   1 & 1 & 0 & 1 & 0 & 0 & 1 
+  <br />\end&#x2774;array&#x2775; \right)
+  <br />$
+  <br />\end&#x2774;center&#x2775;           
           </p>
           <h3>Matriz 4</h3>
           <p> 
-            
+          \begin&#x2774;center&#x2775;
+          <br />$
+          <br />H=
+          <br />\left(\begin&#x2774;array&#x2775;&#x2774;ccccccc&#x2775;
+            <br />   1 & 0 & 0 & 0 & 0 & 1 & 1 \\
+            <br />   0 & 1 & 0 & 0 & 1 & 0 & 1 \\
+            <br />   0 & 0 & 1 & 0 & 1 & 1 & 0 \\
+            <br />   0 & 0 & 0 & 1 & 1 & 1 & 1
+            <br />\end&#x2774;array&#x2775; \right)
+            <br />$
+            <br />\end&#x2774;center&#x2775;       
           </p>
         </div>
       </main>
